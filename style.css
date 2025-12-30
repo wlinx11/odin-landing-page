@@ -1,0 +1,61 @@
+body{
+    font-family: Roboto;
+}
+
+.section-one,
+.footer{
+    background-color: #1F2937;
+}
+
+.section-one h2{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.section-one p,
+.section-one a{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.section-one p{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+button{
+    color: #3882F6;
+}
+
+.section-two h3{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.section-three{
+    background-color: #E5E7EB;
+}
+
+.quote{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+}
+
+.header{
+    display: flex;
+}
+
+.links{
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+}
+
+.hero{
+    display: flex;
+}
+
+ss
